@@ -36,18 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "main": "redux-demo.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fathymo7/Counter-using-Redux.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fathymo7/Counter-using-Redux/issues"
-  },
-  "homepage": "https://github.com/fathymo7/Counter-using-Redux#readme",
-  "description": ""
+  }
 }
